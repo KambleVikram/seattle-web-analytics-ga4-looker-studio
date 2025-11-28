@@ -67,8 +67,6 @@ Page performance by session duration
 
 Views per user analysis
 
-🔗 View dashboard:
-https://lookerstudio.google.com/s/rpW_pq8GKBk
 
 📈 Key Insights
 
