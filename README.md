@@ -1,0 +1,143 @@
+📊 Seattle Web Analytics – GA4 & Looker Studio Dashboard
+📌 Project Overview
+
+This project focuses on analyzing user behavior and website performance for a Seattle Travel & Attractions website using Google Analytics 4 (GA4) and Google Looker Studio. The goal was to understand how users interact with the site, identify engagement patterns, and recommend improvements to increase traffic and user retention.
+
+A full KPI framework, dashboard, and analytics-driven recommendations were developed to guide content and design optimization.
+
+🎯 Business Goal
+
+The primary objectives of this project were to:
+
+Track website traffic and user engagement
+
+Understand visitor behavior (new vs returning users)
+
+Identify top performing pages
+
+Measure conversion effectiveness
+
+Recommend improvements to increase engagement and reduce bounce rate
+
+🛠 Tools & Technologies Used
+
+Google Analytics 4 (GA4)
+
+Google Looker Studio
+
+WordPress CMS
+
+MonsterInsights (GA4 Integration)
+
+SEO Plugins (Rank Math)
+
+Microsoft Excel (for KPI structuring)
+
+📊 Key KPIs Tracked
+Metric	Value
+Total Sessions	260
+Active Users	93
+New Users	54.4%
+Returning Users	40.7%
+Engagement Rate	51.9%
+Avg. Session Duration	5 min 7 sec
+Bounce Rate	48.1%
+Views Per User	Declining trend
+Top Country	United States (216 sessions)
+🔍 Analysis Techniques Used
+1. GA4 Exploration Reports
+
+Funnel Analysis – Tracked user journey from First Visit → Session Start → Page View → Purchase
+
+Path Analysis – Observed how users navigated the website
+
+Free-Form Analysis – Segmented users by city and device type
+
+2. Looker Studio Dashboard
+
+The dashboard included:
+
+Sessions trend line
+
+New vs Returning user pie chart
+
+Engagement metrics scorecards
+
+Page performance by session duration
+
+Views per user analysis
+
+🔗 View dashboard:
+https://lookerstudio.google.com/s/rpW_pq8GKBk
+
+📈 Key Insights
+
+✅ Strong initial traffic (260 sessions, 93 active users)
+✅ Healthy mix of new (54%) and returning (41%) users
+❌ Conversion rate remains low (0% on “Purchase” step)
+📉 Drop in views per user over time
+✅ Highest engagement on “Iconic Seattle” and “Explore Us” pages
+❌ Mobile users represent only ~6% of traffic
+
+💡 Actionable Recommendations
+
+Based on the data, the following actions were implemented/suggested:
+
+Add stronger CTAs (ex: Plan Your Trip, Download Free Guide)
+
+Improve internal linking to increase pages/session
+
+Optimize mobile responsiveness
+
+Enhance SEO with better meta descriptions and keywords
+
+Add interactive content (videos, quizzes, itineraries)
+
+Highlight high-performing content
+
+These changes aim to reduce bounce rate and increase engagement depth.
+
+🖼 Dashboard Preview
+
+<img width="332" height="415" alt="1-G" src="https://github.com/user-attachments/assets/31e36d8b-30a8-4f09-8721-1fd38a10c963" />
+
+<img width="365" height="431" alt="2-G" src="https://github.com/user-attachments/assets/efea9877-b1f4-4868-8a46-5493aba214e3" />
+
+
+Example:
+
+Overview Metrics
+
+Sessions & Engagement Trends
+
+Top Pages Table
+
+👤 My Role
+
+Role: CMS Developer & Web Analytics Lead
+
+Implemented GA4 via MonsterInsights
+
+Built Looker Studio KPI dashboard
+
+Designed exploration reports (Funnel, Path, Events)
+
+Defined report structure & analysis
+
+Identified trends and optimization areas
+
+Presented insights & business recommendations
+
+🚀 Why This Project Matters
+
+This is a real-world analytics project using live website data — not mock or Kaggle data — demonstrating practical experience in:
+
+User behavior analysis
+
+KPI reporting
+
+Business insight generation
+
+Product & content optimization
+
+Dashboard storytelling
